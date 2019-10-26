@@ -1,2 +1,2 @@
 # Hello-HacktoberFest19
-A new creative hacktoberfest hello world program in c++
+***A new creative Hello World program using modern C++***
