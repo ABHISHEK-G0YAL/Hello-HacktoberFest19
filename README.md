@@ -71,5 +71,5 @@ int main() {
     return 0;
 }
 ```
-**This gives the following output based on date and time of the system. It is beautiful.**
+#### *This gives the following output based on date and time of the system. It is beautiful.*
 ![](hacktoberfest.apng)
